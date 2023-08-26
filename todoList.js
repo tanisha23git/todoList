@@ -1,7 +1,4 @@
-const todo_List=[{
-    name: 'make dinner',
-    dueDate: '2022-12-22'
-}];
+const todo_List=[];
 renderTodoList();
 
 function renderTodoList(){
